@@ -1,4 +1,4 @@
-# Alura exemple Webpage
+# Alura exemple Website
 
 ## Overview
 This project is a personal portfolio website inspired by the example provided in the Alura web development course.
