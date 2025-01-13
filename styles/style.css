@@ -54,7 +54,7 @@ body {
 }
 
 .apresentacao__conteudo__titulo {
-    font-size:36px;
+    font-size:2.25rem;
     font-family: "Krona One", serif;
   
 }
@@ -64,12 +64,12 @@ body {
 }
 
 .apresentacao__conteudo__texto {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--font-secundaria);
 }
 
 .apresentacao__conteudo__subtitulo{
-    font-size:24px;
+    font-size:1.5rem;
     font-family: var(--font-primaria);
     font-weight: 400;
 }
@@ -94,7 +94,7 @@ body {
     padding: 21.5px 0;
     text-align: center;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 1.5rem;
     color: var(--cor-secundaria);
     border-radius: 8px;
     font-family: var(--font-secundaria);
@@ -114,7 +114,7 @@ body {
     padding: 24px;
     background-color: var(--cor-terciaria);
     color: var(--cor-primaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--font-secundaria);
     font-weight: 400;
     text-align: center;
